@@ -8,11 +8,11 @@
 [![Linkedin: Harshit Ambalkar](https://img.shields.io/badge/-harshit28-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshit28/)](https://www.linkedin.com/in/harshit28/)
 [![GitHub Harshit Ambalkar](https://img.shields.io/github/followers/harshit28?label=follow&style=social)](https://github.com/harshit28)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=harshit28.visitor-badge)
-[![Resume](https://img.shields.io/badge/Resume-Download-brightgreen)](https://www.linkedin.com/in/harshit28/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAABskoxUBFEvr1gEe5Fl0RJG6bTAR9JFeqDE,1599197981355)/)
+[![Resume](https://img.shields.io/badge/Resume-Download-brightgreen)](https://drive.google.com/file/d/1ct97ggK75ZlYVCWXUEdyTAwgpeHuc-ZI/view?usp=sharing)
 
 ## About me
 
-I have 2 Years of experience in full-stack software development at <a href="https://mkcl.org/">MKCL</a> , I have also done my Internship as a Data Science Intern at <a href="https://www.humaxa.com/">Humaxa</a>. I believe in building readable and scalable code. During my journey as a software developer I have build many real-time,robust and scalable web applications which can be checked in my Resume. I am currenly looking for Internship postions starting from Spring 2021 | Summer 2021.
+I have 2 Years of experience in full-stack software development at <a href="https://mkcl.org/">MKCL</a> , I have also done my Internship as a Data Science Intern at <a href="https://www.humaxa.com/">Humaxa</a>. I believe in building readable and scalable code. During my journey as a software developer I have build many real-time,robust and scalable web applications which can be checked in my<a href="https://drive.google.com/file/d/1ct97ggK75ZlYVCWXUEdyTAwgpeHuc-ZI/view?usp=sharing">resume</a>. I am currenly looking for Internship postions starting from Spring 2021 | Summer 2021.
 
 ### Proficient
 <code><a href="https://www.python.org/" target="_blank"> <img height="100" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
