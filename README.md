@@ -33,6 +33,8 @@ I have 2 Years of experience in full-stack software development at <a href="http
 ### Know's about
 
 <code><a href="https://cloud.google.com/" target="_blank"><img height="100" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"></a></code>
+<code><a href="https://heroku.com/apps" target="_blank"><img height="100" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></a></code>
+<code><a href="https://www.netlify.com/" target="_blank"><img height="100" src="https://www.vectorlogo.zone/logos/netlify/netlify-ar21.svg"></a></code>
 
 
 <p align='center'>
