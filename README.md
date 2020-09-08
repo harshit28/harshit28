@@ -12,7 +12,7 @@
 
 ## About me
 
-I have 2.5 Years of experience in full-stack software development, I have also done my Internship as a Data Science Intern at Humaxa.I believe in building readable and scalable code. During my journey as a software developer I have build many real-time,robust and scalable web applications which can be checked in my Resume. I am currenly looking for Internship postions starting from Spring 2021 | Summer 2021.
+I have 2 Years of experience in full-stack software development at <a href="https://mkcl.org/">MKCL</a> , I have also done my Internship as a Data Science Intern at <a href="https://www.humaxa.com/">Humaxa</a>. I believe in building readable and scalable code. During my journey as a software developer I have build many real-time,robust and scalable web applications which can be checked in my Resume. I am currenly looking for Internship postions starting from Spring 2021 | Summer 2021.
 
 ### Proficient
 <code><a href="https://www.python.org/" target="_blank"> <img height="100" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
