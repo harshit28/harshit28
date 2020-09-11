@@ -2,7 +2,7 @@
   Hi there 👋 I'm Harshit 👨‍💻
 </h1>
 
-## Master's Student at <a href="https://www.csus.edu/">CSUS</a>
+## Master's Student at <a href="https://www.csus.edu/" target="_blank">CSUS</a>
 
 
 [![Linkedin: Harshit Ambalkar](https://img.shields.io/badge/-harshit28-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshit28/)](https://www.linkedin.com/in/harshit28/)
